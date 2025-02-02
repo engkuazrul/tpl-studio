@@ -1,36 +1,9 @@
-# Studio
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/fa8a9a4e-88cb-43e4-83d8-2e8a8612da9e" />
 
-Studio is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/b4135293-be2a-4dcd-b9b6-de19802a7873" />
 
-## Getting started
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/dbe3d15e-83d8-4005-8731-e932b74789c7" />
 
-To get started with this template, first install the npm dependencies:
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/5166daa2-411c-4af6-95a7-8dd5c3550d88" />
 
-```bash
-npm install
-```
 
-Next, run the development server:
-
-```bash
-npm run dev
-```
-
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
-
-## Customizing
-
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
-
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Framer Motion](https://www.framer.com/docs/) - the official Framer Motion documentation
-- [MDX](https://mdxjs.com/) - the official MDX documentation
